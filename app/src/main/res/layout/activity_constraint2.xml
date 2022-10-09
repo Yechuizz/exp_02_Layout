@@ -194,5 +194,4 @@
         app:layout_constraintEnd_toEndOf="@+id/t7"
         app:layout_constraintTop_toTopOf="@+id/t7" />
 
-
 </androidx.constraintlayout.widget.ConstraintLayout>
